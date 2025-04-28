@@ -1,0 +1,23 @@
+{
+  "name": "test-3",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Wizengamott/Auto-Lessons#readme",
+  "bugs": {
+    "url": "https://github.com/Wizengamott/Auto-Lessons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Wizengamott/Auto-Lessons.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cypress": "^14.3.2"
+  }
+}
