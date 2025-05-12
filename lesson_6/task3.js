@@ -10,3 +10,4 @@ function checkOrder (available, ordered) {
 console.log(checkOrder(100, 50));
 console.log(checkOrder(100, 130)); 
 console.log(checkOrder(100, 0)); 
+
