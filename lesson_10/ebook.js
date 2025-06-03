@@ -1,13 +1,4 @@
-class Book {
-    constructor (title, author, year) {
-        this.title = title;
-        this.author = author;
-        this.year = year
-    }
-printInfo () { 
-    console.log(`This book "${this.title}" was written by ${this.author} in ${this.year}`)
-    }
-}
+import { Book } from './book.js'
 
 class EBook extends Book {
     constructor (title, author, year, fileFormat) {
